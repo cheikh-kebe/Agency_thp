@@ -1,0 +1,17 @@
+.header{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 20vh;
+  padding-left: 20px;
+}
+.header p{
+  font-size: 1.25rem;
+}
+
+.header a{
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: rgb(3, 146, 146);
+  
+}

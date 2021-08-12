@@ -1,0 +1,15 @@
+.app{
+  box-sizing: border-box;
+}
+.app.dark{
+  background: #fff;
+  color: black;
+  transition: ease-in-out 0.4s;
+}
+
+.app.light{
+  background: rgb(71, 71, 71);
+  color: white;
+  transition: ease-in-out 0.4s;
+}
+
